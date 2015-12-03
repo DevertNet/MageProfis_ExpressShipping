@@ -1,0 +1,3 @@
+app/etc/modules/MageProfis_ExpressShipping.xml     app/etc/modules/MageProfis_ExpressShipping.xml
+app/code/local/MageProfis/ExpressShipping/         app/code/local/MageProfis/ExpressShipping/
+app/locale/de_DE/MageProfis_ExpressShipping.csv    app/locale/de_DE/MageProfis_ExpressShipping.csv
